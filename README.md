@@ -1,4 +1,4 @@
-## WX-ROS2
+## WXS-ROS2
 ROS 2 Interface for Wayties V2X Simple (WXS)
 
 ### Prerequisites 
